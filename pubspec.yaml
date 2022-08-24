@@ -111,4 +111,8 @@ flutter:
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
   assets:
-    - assets/
+    - assets/lotties/
+    - assets/images/
+    - assets/images/svg/
+    - assets/images/exhibition/enhanced/
+    - assets/images/exhibition/origin/
